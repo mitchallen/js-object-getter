@@ -1,0 +1,14 @@
+{
+  "name": "js-object-getter",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "web-server": "python -m SimpleHTTPServer $PORT || 8000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
